@@ -42,7 +42,7 @@ This is where i put all interesting link that i found on the internet for future
 
 ### Random tutorial that i've use before
 
-* [ULTIMATE GUIDE] [A-Z] Using Android Source Code/ How to Compile] (http://forum.xda-developers.com/showthread.php?t=2364970)
+* [[ULTIMATE GUIDE][A-Z] Using Android Source Code/ How to Compile](http://forum.xda-developers.com/showthread.php?t=2364970)
 
 * [How to run your own Cloud on a PC using OpenStack on Ubuntu 12.04](https://isurues.wordpress.com/2013/06/01/how-to-run-your-own-cloud-on-a-pc-using-openstack-on-ubuntu-12-04/)
 
